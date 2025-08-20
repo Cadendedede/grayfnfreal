@@ -1,0 +1,136 @@
+{
+	"song": {
+		"events": [
+			[
+				64000,
+				[
+					[
+						"CamFocus",
+						" bf",
+						""
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.5"
+					],
+					[
+						"Change Scroll Speed",
+						"1, 1",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"0.5",
+						"32 "
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"2"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"flaaashbaaack",
+						"create",
+						"0.7"
+					],
+					[
+						"epicflash",
+						"white",
+						"1"
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"flaaashbaaack",
+						"destroy",
+						"0.7"
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1"
+					],
+					[
+						"epicflash",
+						"white",
+						"1"
+					]
+				]
+			],
+			[
+				149000,
+				[
+					[
+						"CamFocus",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				151000,
+				[
+					[
+						"CamFocus",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				157000,
+				[
+					[
+						"CamFocus",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				159000,
+				[
+					[
+						"CamFocus",
+						"bf",
+						""
+					]
+				]
+			]
+		]
+	}
+}

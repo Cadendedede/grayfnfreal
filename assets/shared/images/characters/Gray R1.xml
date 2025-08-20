@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Gray R1.png">
+<SubTexture name="Gray R1 Idle0000" x="0" y="4721" width="1301" height="1520" frameX="-365" frameY="-238" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 Idle0001" x="1301" y="4721" width="1301" height="1520" frameX="-365" frameY="-238" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 Idle0002" x="2656" y="3193" width="1296" height="1522" frameX="-367" frameY="-238" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 Idle0003" x="6459" y="0" width="1292" height="1495" frameX="-361" frameY="-256" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 Idle0004" x="0" y="6241" width="1313" height="1492" frameX="-363" frameY="-267" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 Idle0005" x="1313" y="6241" width="1303" height="1469" frameX="-364" frameY="-294" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 Idle0006" x="6459" y="1495" width="1292" height="1495" frameX="-361" frameY="-256" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 Idle0007" x="5163" y="0" width="1296" height="1522" frameX="-367" frameY="-238" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 Up0000" x="1281" y="0" width="1277" height="1607" frameX="-378" frameY="-152" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 Up0001" x="0" y="0" width="1281" height="1608" frameX="-386" frameY="-164" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 missUp0000" x="2558" y="0" width="1274" height="1585" frameX="-397" frameY="-178" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 missUp0001" x="0" y="1608" width="1274" height="1585" frameX="-378" frameY="-177" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 missUp0002" x="1274" y="1608" width="1274" height="1585" frameX="-385" frameY="-177" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 Down0000" x="2616" y="6241" width="1324" height="1343" frameX="-335" frameY="-408" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 Down0001" x="3940" y="6241" width="1324" height="1338" frameX="-358" frameY="-400" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 missDown0000" x="5264" y="6241" width="1312" height="1312" frameX="-382" frameY="-423" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 missDown0001" x="7751" y="0" width="1312" height="1312" frameX="-363" frameY="-422" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 missDown0002" x="7751" y="1312" width="1312" height="1312" frameX="-370" frameY="-422" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 Left0000" x="2602" y="4721" width="1314" height="1511" frameX="-369" frameY="-223" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 Left0001" x="1331" y="3193" width="1325" height="1523" frameX="-373" frameY="-223" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 missLeft0000" x="3832" y="0" width="1331" height="1528" frameX="-367" frameY="-220" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 missLeft0001" x="3832" y="1528" width="1331" height="1528" frameX="-372" frameY="-220" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 missLeft0002" x="0" y="3193" width="1331" height="1528" frameX="-370" frameY="-220" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 Right0000" x="2548" y="1608" width="1264" height="1530" frameX="-393" frameY="-219" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 Right0001" x="5163" y="1522" width="1288" height="1507" frameX="-381" frameY="-223" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 missRight0000" x="5163" y="3029" width="1267" height="1501" frameX="-398" frameY="-235" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 missRight0001" x="3916" y="4721" width="1267" height="1501" frameX="-406" frameY="-234" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R1 missRight0002" x="5183" y="4721" width="1267" height="1501" frameX="-403" frameY="-235" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

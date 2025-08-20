@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="greywithane.png"><SubTexture name="greywithane Idle0000" x="405" y="1993" width="490" height="372" frameX="-201" frameY="-423" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0001" x="895" y="1993" width="490" height="372" frameX="-201" frameY="-423" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0002" x="1350" y="1606" width="458" height="384" frameX="-217" frameY="-410" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0003" x="1639" y="1167" width="431" height="388" frameX="-225" frameY="-404" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0004" x="820" y="1207" width="420" height="397" frameX="-220" frameY="-397" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0005" x="820" y="1207" width="420" height="397" frameX="-220" frameY="-397" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0006" x="1199" y="401" width="410" height="399" frameX="-227" frameY="-393" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0007" x="0" y="808" width="410" height="399" frameX="-227" frameY="-393" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0008" x="0" y="0" width="411" height="404" frameX="-228" frameY="-387" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0009" x="411" y="0" width="411" height="404" frameX="-228" frameY="-387" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0010" x="410" y="808" width="410" height="399" frameX="-227" frameY="-393" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0011" x="820" y="808" width="410" height="399" frameX="-227" frameY="-393" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0012" x="0" y="404" width="411" height="404" frameX="-228" frameY="-387" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0013" x="411" y="404" width="411" height="404" frameX="-228" frameY="-387" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0014" x="0" y="1207" width="410" height="399" frameX="-227" frameY="-393" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0015" x="410" y="1207" width="410" height="399" frameX="-227" frameY="-393" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0016" x="0" y="404" width="411" height="404" frameX="-228" frameY="-387" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0017" x="411" y="404" width="411" height="404" frameX="-228" frameY="-387" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0018" x="0" y="1207" width="410" height="399" frameX="-227" frameY="-393" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0019" x="410" y="1207" width="410" height="399" frameX="-227" frameY="-393" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0020" x="0" y="404" width="411" height="404" frameX="-228" frameY="-387" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0021" x="411" y="404" width="411" height="404" frameX="-228" frameY="-387" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0022" x="0" y="1207" width="410" height="399" frameX="-227" frameY="-393" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0023" x="410" y="1207" width="410" height="399" frameX="-227" frameY="-393" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0024" x="0" y="404" width="411" height="404" frameX="-228" frameY="-387" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Idle0025" x="411" y="404" width="411" height="404" frameX="-228" frameY="-387" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Right0000" x="872" y="1606" width="478" height="385" frameX="-239" frameY="-409" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Right0001" x="0" y="1606" width="450" height="387" frameX="-235" frameY="-406" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Right0002" x="1639" y="0" width="441" height="389" frameX="-224" frameY="-403" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Down0000" x="0" y="1993" width="405" height="380" frameX="-232" frameY="-410" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Down0001" x="1230" y="808" width="407" height="388" frameX="-234" frameY="-402" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Down0002" x="1639" y="389" width="407" height="389" frameX="-229" frameY="-401" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Left0000" x="822" y="0" width="377" height="403" frameX="-228" frameY="-389" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Left0001" x="1240" y="1207" width="381" height="385" frameX="-221" frameY="-407" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Left0002" x="2080" y="0" width="378" height="382" frameX="-223" frameY="-407" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Up0000" x="1199" y="0" width="440" height="401" frameX="-197" frameY="-389" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Up0001" x="450" y="1606" width="422" height="386" frameX="-214" frameY="-407" frameWidth="800" frameHeight="800" />
+<SubTexture name="greywithane Up0002" x="1639" y="778" width="433" height="389" frameX="-212" frameY="-406" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

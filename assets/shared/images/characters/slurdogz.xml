@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="slurdogz.png"><SubTexture name="slurdogz Idle0000" x="0" y="1689" width="544" height="757" frameX="-161" frameY="-243" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0001" x="0" y="1689" width="544" height="757" frameX="-161" frameY="-243" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0002" x="0" y="1689" width="544" height="757" frameX="-161" frameY="-243" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0003" x="0" y="1689" width="544" height="757" frameX="-161" frameY="-243" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0004" x="2227" y="795" width="544" height="784" frameX="-178" frameY="-216" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0005" x="2227" y="795" width="544" height="784" frameX="-178" frameY="-216" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0006" x="1637" y="885" width="545" height="796" frameX="-181" frameY="-204" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0007" x="1637" y="885" width="545" height="796" frameX="-181" frameY="-204" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0008" x="545" y="885" width="546" height="803" frameX="-190" frameY="-197" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0009" x="545" y="885" width="546" height="803" frameX="-190" frameY="-197" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0010" x="545" y="885" width="546" height="803" frameX="-190" frameY="-197" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0011" x="0" y="885" width="545" height="804" frameX="-197" frameY="-196" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0012" x="0" y="885" width="545" height="804" frameX="-197" frameY="-196" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0013" x="0" y="885" width="545" height="804" frameX="-197" frameY="-196" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0014" x="0" y="885" width="545" height="804" frameX="-197" frameY="-196" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0015" x="0" y="885" width="545" height="804" frameX="-197" frameY="-196" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0016" x="0" y="885" width="545" height="804" frameX="-197" frameY="-196" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0017" x="0" y="885" width="545" height="804" frameX="-197" frameY="-196" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0018" x="0" y="885" width="545" height="804" frameX="-197" frameY="-196" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0019" x="0" y="885" width="545" height="804" frameX="-197" frameY="-196" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0020" x="0" y="885" width="545" height="804" frameX="-197" frameY="-196" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0021" x="0" y="885" width="545" height="804" frameX="-197" frameY="-196" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0022" x="0" y="885" width="545" height="804" frameX="-197" frameY="-196" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Idle0023" x="0" y="885" width="545" height="804" frameX="-197" frameY="-196" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Right0000" x="1090" y="0" width="578" height="806" frameX="-255" frameY="-194" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Right0001" x="1090" y="0" width="578" height="806" frameX="-255" frameY="-194" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Right0002" x="1668" y="0" width="559" height="806" frameX="-250" frameY="-194" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Right0003" x="1668" y="0" width="559" height="806" frameX="-250" frameY="-194" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Left0000" x="2227" y="0" width="544" height="795" frameX="-106" frameY="-205" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Left0001" x="2227" y="0" width="544" height="795" frameX="-106" frameY="-205" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Left0002" x="1091" y="885" width="546" height="799" frameX="-129" frameY="-201" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Left0003" x="1091" y="885" width="546" height="799" frameX="-129" frameY="-201" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Up0000" x="0" y="0" width="545" height="885" frameX="-220" frameY="-115" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Up0001" x="0" y="0" width="545" height="885" frameX="-220" frameY="-115" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Up0002" x="545" y="0" width="545" height="865" frameX="-214" frameY="-135" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Up0003" x="545" y="0" width="545" height="865" frameX="-214" frameY="-135" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Down0000" x="1087" y="1689" width="539" height="697" frameX="-214" frameY="-303" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Down0001" x="1087" y="1689" width="539" height="697" frameX="-214" frameY="-303" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Down0002" x="544" y="1689" width="543" height="724" frameX="-204" frameY="-276" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="slurdogz Down0003" x="544" y="1689" width="543" height="724" frameX="-204" frameY="-276" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

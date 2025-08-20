@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="grayper.png"><SubTexture name="grayper Idle0000" x="1213" y="1905" width="1532" height="1847" frameX="-279" frameY="-108" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper Idle0001" x="4217" y="0" width="1529" height="1841" frameX="-276" frameY="-116" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper Up0000" x="0" y="1905" width="1213" height="1870" frameX="-385" frameY="-74" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper Up0001" x="1514" y="0" width="1205" height="1900" frameX="-396" frameY="-122" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper Up0002" x="0" y="1905" width="1213" height="1870" frameX="-385" frameY="-105" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper Up0003" x="1514" y="0" width="1205" height="1900" frameX="-396" frameY="-98" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper Down0000" x="1496" y="3775" width="1461" height="1563" frameX="-239" frameY="-444" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper Down0001" x="2745" y="1905" width="1458" height="1603" frameX="-240" frameY="-382" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper Down0002" x="1496" y="3775" width="1461" height="1563" frameX="-239" frameY="-409" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper Down0003" x="2745" y="1905" width="1458" height="1603" frameX="-240" frameY="-401" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper Right0000" x="4217" y="1841" width="1507" height="1831" frameX="-288" frameY="-132" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper Right0001" x="0" y="3775" width="1496" height="1830" frameX="-214" frameY="-132" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper Right0002" x="4217" y="1841" width="1507" height="1831" frameX="-235" frameY="-132" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper Right0003" x="0" y="3775" width="1496" height="1830" frameX="-237" frameY="-132" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper Left0000" x="0" y="0" width="1514" height="1905" frameX="-136" frameY="-56" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper Left0001" x="2719" y="0" width="1498" height="1897" frameX="-224" frameY="-61" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper Left0002" x="0" y="0" width="1514" height="1905" frameX="-196" frameY="-56" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper Left0003" x="2719" y="0" width="1498" height="1897" frameX="-198" frameY="-61" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper missLeft0000" x="3445" y="3775" width="432" height="406" frameX="-825" frameY="-1566" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper missDown0000" x="3877" y="3775" width="294" height="305" frameX="-894" frameY="-1632" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper missUp0000" x="2957" y="3775" width="488" height="443" frameX="-803" frameY="-1509" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="grayper missRight0000" x="4171" y="3775" width="281" height="270" frameX="-901" frameY="-1634" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

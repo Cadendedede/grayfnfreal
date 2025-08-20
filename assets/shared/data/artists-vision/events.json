@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				19200,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1"
+					]
+				]
+			],
+			[
+				70400,
+				[
+					[
+						"Camera Follow Pos",
+						"660",
+						"220"
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.5"
+					]
+				]
+			],
+			[
+				83200,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.9"
+					]
+				]
+			]
+		]
+	}
+}

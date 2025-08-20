@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="grayreal.png"><SubTexture name="grayreal idle0000" x="8647" y="4854" width="2048" height="1024" frameX="-476" frameY="-1337" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0001" x="8647" y="3744" width="2048" height="1110" frameX="-476" frameY="-1247" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0002" x="8647" y="2549" width="2048" height="1195" frameX="-476" frameY="-1157" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0003" x="8647" y="0" width="2048" height="1281" frameX="-476" frameY="-1067" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0004" x="6144" y="6303" width="2048" height="1367" frameX="-476" frameY="-976" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0005" x="4096" y="6303" width="2048" height="1452" frameX="-476" frameY="-886" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0006" x="2048" y="6303" width="2048" height="1538" frameX="-476" frameY="-796" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0007" x="0" y="6303" width="2048" height="1623" frameX="-476" frameY="-706" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0008" x="6144" y="4338" width="2048" height="1709" frameX="-476" frameY="-616" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0009" x="4096" y="4338" width="2048" height="1794" frameX="-476" frameY="-526" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0010" x="2048" y="4338" width="2048" height="1879" frameX="-476" frameY="-436" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0011" x="0" y="4338" width="2048" height="1965" frameX="-476" frameY="-346" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0012" x="4096" y="0" width="2048" height="2051" frameX="-476" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0013" x="4096" y="0" width="2048" height="2051" frameX="-476" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0014" x="4096" y="0" width="2048" height="2051" frameX="-476" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0015" x="4096" y="0" width="2048" height="2051" frameX="-476" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0016" x="4096" y="0" width="2048" height="2051" frameX="-476" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0017" x="4096" y="0" width="2048" height="2051" frameX="-476" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0018" x="4096" y="0" width="2048" height="2051" frameX="-476" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0019" x="4096" y="0" width="2048" height="2051" frameX="-476" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0020" x="4096" y="0" width="2048" height="2051" frameX="-476" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0021" x="4096" y="0" width="2048" height="2051" frameX="-476" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0022" x="4096" y="0" width="2048" height="2051" frameX="-476" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal idle0023" x="4096" y="0" width="2048" height="2051" frameX="-476" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal right0000" x="4096" y="0" width="2048" height="2051" frameX="-476" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal right0001" x="0" y="2287" width="2505" height="2051" frameX="-495" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal right0002" x="2505" y="2287" width="2431" height="2051" frameX="-485" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal left0000" x="4096" y="0" width="2048" height="2051" frameX="-476" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal left0001" x="6144" y="0" width="2503" height="2051" frameX="0" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal left0002" x="6144" y="2051" width="2472" height="2051" frameX="-42" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal down0000" x="4096" y="0" width="2048" height="2051" frameX="-476" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal down0001" x="8647" y="5878" width="2048" height="486" frameX="-476" frameY="-1904" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal down0002" x="8647" y="1281" width="2048" height="1268" frameX="-476" frameY="-1080" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal up0000" x="4096" y="0" width="2048" height="2051" frameX="-476" frameY="-255" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal up0001" x="0" y="0" width="2048" height="2287" frameX="-476" frameY="0" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="grayreal up0002" x="2048" y="0" width="2048" height="2234" frameX="-476" frameY="-62" frameWidth="3000" frameHeight="3000" />
+</TextureAtlas>

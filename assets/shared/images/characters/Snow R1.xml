@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Snow R1.png">
+<SubTexture name="Snow R1 Idle0000" x="4434" y="1596" width="1389" height="1576" frameX="-362" frameY="-313" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Snow R1 Idle0001" x="1361" y="1754" width="1375" height="1605" frameX="-369" frameY="-291" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Snow R1 Idle0002" x="3092" y="0" width="1342" height="1631" frameX="-390" frameY="-249" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Snow R1 Idle0003" x="0" y="1754" width="1361" height="1626" frameX="-374" frameY="-260" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Snow R1 Up0000" x="4294" y="3380" width="1356" height="1469" frameX="-358" frameY="-438" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Snow R1 Up0001" x="2984" y="3380" width="1310" height="1472" frameX="-374" frameY="-417" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Snow R1 Down0000" x="0" y="0" width="1536" height="1754" frameX="-283" frameY="-98" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Snow R1 Down0001" x="1536" y="0" width="1556" height="1742" frameX="-277" frameY="-113" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Snow R1 Left0000" x="1479" y="3380" width="1505" height="1508" frameX="-397" frameY="-336" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Snow R1 Left0001" x="0" y="3380" width="1479" height="1521" frameX="-391" frameY="-324" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Snow R1 Right0000" x="2736" y="1754" width="1455" height="1604" frameX="-266" frameY="-251" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Snow R1 Right0001" x="4434" y="0" width="1389" height="1596" frameX="-291" frameY="-268" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

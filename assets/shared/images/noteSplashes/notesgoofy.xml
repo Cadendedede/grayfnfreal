@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="notesgoofy.png">
+<SubTexture name="yippee blue 10000" x="820" y="0" width="198" height="174" frameX="-54" frameY="-69" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee blue 10001" x="465" y="555" width="187" height="178" frameX="-51" frameY="-64" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee blue 10002" x="261" y="555" width="204" height="220" frameX="-48" frameY="-47" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee blue 10003" x="0" y="0" width="282" height="283" frameX="-9" frameY="-14" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee blue 10004" x="561" y="265" width="256" height="260" frameX="-25" frameY="-25" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee blue 10005" x="265" y="283" width="272" height="267" frameX="-11" frameY="-15" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee blue 10006" x="282" y="0" width="279" height="283" frameX="-3" frameY="-6" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee blue 10007" x="0" y="283" width="265" height="272" frameX="-11" frameY="-9" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee blue 10008" x="561" y="0" width="259" height="265" frameX="-14" frameY="-14" frameWidth="300" frameHeight="300" />
+
+
+<SubTexture name="yippee red 10000" x="820" y="0" width="198" height="174" frameX="-54" frameY="-69" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee red 10001" x="465" y="555" width="187" height="178" frameX="-51" frameY="-64" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee red 10002" x="261" y="555" width="204" height="220" frameX="-48" frameY="-47" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee red 10003" x="0" y="0" width="282" height="283" frameX="-9" frameY="-14" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee red 10004" x="561" y="265" width="256" height="260" frameX="-25" frameY="-25" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee red 10005" x="265" y="283" width="272" height="267" frameX="-11" frameY="-15" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee red 10006" x="282" y="0" width="279" height="283" frameX="-3" frameY="-6" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee red 10007" x="0" y="283" width="265" height="272" frameX="-11" frameY="-9" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee red 10008" x="561" y="0" width="259" height="265" frameX="-14" frameY="-14" frameWidth="300" frameHeight="300" />
+
+
+<SubTexture name="yippee green 10000" x="820" y="0" width="198" height="174" frameX="-54" frameY="-69" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee green 10001" x="465" y="555" width="187" height="178" frameX="-51" frameY="-64" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee green 10002" x="261" y="555" width="204" height="220" frameX="-48" frameY="-47" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee green 10003" x="0" y="0" width="282" height="283" frameX="-9" frameY="-14" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee green 10004" x="561" y="265" width="256" height="260" frameX="-25" frameY="-25" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee green 10005" x="265" y="283" width="272" height="267" frameX="-11" frameY="-15" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee green 10006" x="282" y="0" width="279" height="283" frameX="-3" frameY="-6" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee green 10007" x="0" y="283" width="265" height="272" frameX="-11" frameY="-9" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee green 10008" x="561" y="0" width="259" height="265" frameX="-14" frameY="-14" frameWidth="300" frameHeight="300" />
+
+
+<SubTexture name="yippee purple 10000" x="820" y="0" width="198" height="174" frameX="-54" frameY="-69" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee purple 10001" x="465" y="555" width="187" height="178" frameX="-51" frameY="-64" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee purple 10002" x="261" y="555" width="204" height="220" frameX="-48" frameY="-47" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee purple 10003" x="0" y="0" width="282" height="283" frameX="-9" frameY="-14" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee purple 10004" x="561" y="265" width="256" height="260" frameX="-25" frameY="-25" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee purple 10005" x="265" y="283" width="272" height="267" frameX="-11" frameY="-15" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee purple 10006" x="282" y="0" width="279" height="283" frameX="-3" frameY="-6" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee purple 10007" x="0" y="283" width="265" height="272" frameX="-11" frameY="-9" frameWidth="300" frameHeight="300" />
+<SubTexture name="yippee purple 10008" x="561" y="0" width="259" height="265" frameX="-14" frameY="-14" frameWidth="300" frameHeight="300" />
+
+</TextureAtlas>

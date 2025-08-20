@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hurt.png">
+<SubTexture name="hurt Idle0000" x="3025" y="0" width="1406" height="1954" frameX="-353" frameY="-50" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="hurt Idle0001" x="1633" y="1993" width="1382" height="1945" frameX="-354" frameY="-64" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="hurt Up0000" x="0" y="0" width="1511" height="1993" frameX="-228" frameY="-1" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="hurt Up0001" x="1511" y="0" width="1514" height="1970" frameX="-216" frameY="-64" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="hurt Up0002" x="0" y="0" width="1511" height="1993" frameX="-228" frameY="-21" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="hurt Up0003" x="1511" y="0" width="1514" height="1970" frameX="-216" frameY="-32" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="hurt Down0000" x="3479" y="3940" width="1781" height="1741" frameX="-116" frameY="-165" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="hurt Down0001" x="6073" y="0" width="1779" height="1692" frameX="-128" frameY="-239" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="hurt Down0002" x="3479" y="3940" width="1781" height="1741" frameX="-116" frameY="-178" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="hurt Down0003" x="6073" y="0" width="1779" height="1692" frameX="-128" frameY="-207" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="hurt Left0000" x="4431" y="0" width="1642" height="1938" frameX="-97" frameY="-46" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="hurt Left0001" x="0" y="1993" width="1633" height="1947" frameX="-67" frameY="-31" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="hurt Left0002" x="4431" y="0" width="1642" height="1938" frameX="-86" frameY="-47" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="hurt Left0003" x="0" y="1993" width="1633" height="1947" frameX="-90" frameY="-31" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="hurt Right0000" x="1752" y="3940" width="1727" height="1865" frameX="-247" frameY="-28" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="hurt Right0001" x="0" y="3940" width="1752" height="1893" frameX="-240" frameY="-30" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="hurt Right0002" x="1752" y="3940" width="1727" height="1865" frameX="-263" frameY="-28" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="hurt Right0003" x="0" y="3940" width="1752" height="1893" frameX="-209" frameY="-30" frameWidth="2048" frameHeight="2048" />
+
+</TextureAtlas>

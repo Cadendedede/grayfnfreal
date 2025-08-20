@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Gray Past.png">
+<SubTexture name="Gray Past Idle0000" x="5225" y="1435" width="1735" height="1432" frameX="-97" frameY="-314" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past Idle0001" x="0" y="2981" width="1720" height="1454" frameX="-105" frameY="-295" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past Idle0002" x="1720" y="2981" width="1706" height="1442" frameX="-107" frameY="-312" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past Idle0003" x="7134" y="1395" width="1808" height="1374" frameX="-113" frameY="-380" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past Idle0004" x="1941" y="4435" width="1979" height="1421" frameX="-9" frameY="-330" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past Idle0005" x="3920" y="4435" width="1998" height="1419" frameX="-14" frameY="-333" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past Idle0006" x="7134" y="0" width="1882" height="1395" frameX="-96" frameY="-360" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past Idle0007" x="3426" y="2981" width="1625" height="1226" frameX="-109" frameY="-519" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past Up0000" x="7134" y="4093" width="1590" height="1231" frameX="-117" frameY="-515" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past Up0001" x="5947" y="7248" width="1608" height="1182" frameX="-96" frameY="-557" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past missUp0000" x="1788" y="0" width="1639" height="1506" frameX="-80" frameY="-230" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past missUp0001" x="0" y="1508" width="1627" height="1473" frameX="-77" frameY="-267" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past missUp0002" x="1627" y="1508" width="1627" height="1473" frameX="-88" frameY="-267" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past Down0000" x="5225" y="0" width="1909" height="1435" frameX="-85" frameY="-315" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past Down0001" x="5225" y="2867" width="1868" height="1431" frameX="-88" frameY="-319" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past missDown0000" x="0" y="0" width="1788" height="1508" frameX="-49" frameY="-247" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past missDown0001" x="3427" y="0" width="1798" height="1467" frameX="-80" frameY="-275" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past missDown0002" x="3427" y="1467" width="1798" height="1467" frameX="-78" frameY="-275" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past Right0000" x="3822" y="5862" width="1899" height="1361" frameX="-83" frameY="-376" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past Right0001" x="7134" y="2769" width="1878" height="1324" frameX="-73" frameY="-407" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past missRight0000" x="0" y="4435" width="1941" height="1427" frameX="-63" frameY="-319" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past missRight0001" x="0" y="5862" width="1911" height="1386" frameX="-61" frameY="-351" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past missRight0002" x="1911" y="5862" width="1911" height="1386" frameX="-65" frameY="-351" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past Left0000" x="9016" y="0" width="1996" height="1182" frameX="-6" frameY="-569" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past Left0001" x="3964" y="7248" width="1983" height="1184" frameX="-11" frameY="-562" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past missLeft0000" x="5721" y="5862" width="1991" height="1201" frameX="-24" frameY="-550" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past missLeft0001" x="0" y="7248" width="1982" height="1198" frameX="-23" frameY="-553" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray Past missLeft0002" x="1982" y="7248" width="1982" height="1198" frameX="-18" frameY="-553" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

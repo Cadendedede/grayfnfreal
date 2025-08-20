@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Snow Past.png">
+<SubTexture name="Snow Past Idle0000" x="2004" y="2542" width="2003" height="1265" frameX="0" frameY="-375" frameWidth="2061" frameHeight="1640" />
+<SubTexture name="Snow Past Idle0001" x="0" y="0" width="2004" height="1271" frameX="0" frameY="-369" frameWidth="2061" frameHeight="1640" />
+<SubTexture name="Snow Past Up0000" x="4008" y="0" width="2003" height="1265" frameX="0" frameY="-375" frameWidth="2061" frameHeight="1640" />
+<SubTexture name="Snow Past Up0001" x="2004" y="0" width="2004" height="1271" frameX="0" frameY="-369" frameWidth="2061" frameHeight="1640" />
+<SubTexture name="Snow Past Down0000" x="4008" y="1265" width="2003" height="1265" frameX="0" frameY="-375" frameWidth="2061" frameHeight="1640" />
+<SubTexture name="Snow Past Down0001" x="0" y="1271" width="2004" height="1271" frameX="0" frameY="-369" frameWidth="2061" frameHeight="1640" />
+<SubTexture name="Snow Past Right0000" x="4008" y="2530" width="2003" height="1265" frameX="0" frameY="-375" frameWidth="2061" frameHeight="1640" />
+<SubTexture name="Snow Past Right0001" x="2004" y="1271" width="2004" height="1271" frameX="0" frameY="-369" frameWidth="2061" frameHeight="1640" />
+<SubTexture name="Snow Past Left0000" x="0" y="3813" width="2003" height="1265" frameX="0" frameY="-375" frameWidth="2061" frameHeight="1640" />
+<SubTexture name="Snow Past Left0001" x="0" y="2542" width="2004" height="1271" frameX="0" frameY="-369" frameWidth="2061" frameHeight="1640" />
+</TextureAtlas>

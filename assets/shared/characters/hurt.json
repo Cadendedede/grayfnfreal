@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				5,
+				-3
+			],
+			"anim": "idle",
+			"fps": 5,
+			"name": "hurt Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				6,
+				11
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hurt Left"
+		},
+		{
+			"offsets": [
+				-3,
+				-13
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hurt Down"
+		},
+		{
+			"offsets": [
+				-5,
+				32
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hurt Up"
+		},
+		{
+			"offsets": [
+				-65,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hurt Right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/hurt",
+	"position": [
+		-790,
+		-560
+	],
+	"healthicon": "hurt",
+	"flip_x": false,
+	"healthbar_colors": [
+		137,
+		108,
+		255
+	],
+	"camera_position": [
+		600,
+		720
+	],
+	"sing_duration": 6,
+	"scale": 0.3,
+	"_editor_isPlayer": false
+}

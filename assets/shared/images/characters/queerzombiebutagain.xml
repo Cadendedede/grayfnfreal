@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="queerzombiebutagain.png"><SubTexture name="queerzombiebutagain Down0000" x="1140" y="4982" width="1150" height="1194" frameX="-482" frameY="-612" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="queerzombiebutagain Down0001" x="2290" y="4982" width="1133" height="1186" frameX="-477" frameY="-611" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="queerzombiebutagain Down0002" x="0" y="4982" width="1140" height="1195" frameX="-482" frameY="-610" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="queerzombiebutagain Idle0000" x="5471" y="3203" width="1095" height="1586" frameX="-411" frameY="-307" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="queerzombiebutagain Idle0001" x="2124" y="3337" width="1075" height="1614" frameX="-418" frameY="-273" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="queerzombiebutagain Idle0002" x="4418" y="0" width="1053" height="1646" frameX="-421" frameY="-237" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="queerzombiebutagain Idle0003" x="0" y="3337" width="1062" height="1645" frameX="-419" frameY="-246" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="queerzombiebutagain Idle0004" x="1062" y="3337" width="1062" height="1624" frameX="-423" frameY="-266" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="queerzombiebutagain Left0000" x="5471" y="1607" width="1542" height="1596" frameX="-156" frameY="-313" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="queerzombiebutagain Left0001" x="3199" y="3337" width="1560" height="1608" frameX="-152" frameY="-291" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="queerzombiebutagain Left0002" x="5471" y="0" width="1545" height="1607" frameX="-155" frameY="-292" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="queerzombiebutagain Right0000" x="0" y="0" width="1478" height="1675" frameX="-163" frameY="-222" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="queerzombiebutagain Right0001" x="2957" y="0" width="1461" height="1662" frameX="-181" frameY="-235" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="queerzombiebutagain Right0002" x="1478" y="0" width="1479" height="1670" frameX="-158" frameY="-223" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="queerzombiebutagain Up0000" x="0" y="1675" width="1228" height="1662" frameX="-520" frameY="-137" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="queerzombiebutagain Up0001" x="1228" y="1675" width="1205" height="1662" frameX="-532" frameY="-147" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="queerzombiebutagain Up0002" x="2433" y="1675" width="1201" height="1660" frameX="-528" frameY="-146" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

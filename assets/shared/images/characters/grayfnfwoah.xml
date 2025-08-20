@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="grayfnfwoah.png"><SubTexture name="grayfnfwoah Idle0000" x="1921" y="876" width="650" height="870" frameX="-93" frameY="-119" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="grayfnfwoah Idle0001" x="1921" y="876" width="650" height="870" frameX="-93" frameY="-119" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="grayfnfwoah Idle0002" x="2580" y="876" width="656" height="873" frameX="-94" frameY="-116" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="grayfnfwoah Idle0003" x="1921" y="0" width="659" height="876" frameX="-94" frameY="-113" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="grayfnfwoah Idle0004" x="2580" y="0" width="662" height="876" frameX="-94" frameY="-113" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="grayfnfwoah Idle0005" x="0" y="904" width="663" height="879" frameX="-96" frameY="-110" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="grayfnfwoah Idle0006" x="0" y="904" width="663" height="879" frameX="-96" frameY="-110" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="grayfnfwoah Idle0007" x="0" y="904" width="663" height="879" frameX="-96" frameY="-110" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="grayfnfwoah Idle0008" x="0" y="904" width="663" height="879" frameX="-96" frameY="-110" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="grayfnfwoah Idle0009" x="0" y="904" width="663" height="879" frameX="-96" frameY="-110" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="grayfnfwoah Idle0010" x="0" y="904" width="663" height="879" frameX="-96" frameY="-110" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="grayfnfwoah Idle0011" x="0" y="904" width="663" height="879" frameX="-96" frameY="-110" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="grayfnfwoah down0000" x="663" y="1783" width="663" height="857" frameX="-96" frameY="-132" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="grayfnfwoah down0001" x="0" y="1783" width="663" height="866" frameX="-96" frameY="-123" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="grayfnfwoah up0000" x="0" y="0" width="655" height="904" frameX="-96" frameY="-85" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="grayfnfwoah up0001" x="655" y="0" width="655" height="893" frameX="-96" frameY="-96" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="grayfnfwoah right0000" x="2054" y="1783" width="751" height="851" frameX="-52" frameY="-133" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="grayfnfwoah right0001" x="1326" y="1783" width="728" height="852" frameX="-52" frameY="-132" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="grayfnfwoah left0000" x="1310" y="0" width="611" height="880" frameX="-181" frameY="-109" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="grayfnfwoah left0001" x="663" y="904" width="604" height="879" frameX="-191" frameY="-110" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

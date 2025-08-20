@@ -1,0 +1,31 @@
+{
+	"storyName": "The Goober's Angry",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stag",
+	"freeplayColor": [
+		152,
+		152,
+		152
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"xeroexe",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"snowvsgrayreal",
+			"gray",
+			[
+				255,
+				60,
+				60
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "snowgray"
+}

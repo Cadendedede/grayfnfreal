@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Gray R2.png">
+<SubTexture name="Gray R2 Idle0000" x="0" y="3002" width="1218" height="1482" frameX="-430" frameY="-262" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 Idle0001" x="1218" y="3002" width="1218" height="1482" frameX="-430" frameY="-262" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 Idle0002" x="0" y="0" width="1206" height="1507" frameX="-432" frameY="-244" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 Idle0003" x="0" y="1507" width="1207" height="1495" frameX="-434" frameY="-253" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 Idle0004" x="1207" y="1507" width="1205" height="1494" frameX="-434" frameY="-252" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 Idle0005" x="1206" y="0" width="1206" height="1507" frameX="-432" frameY="-244" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 Right0000" x="2412" y="0" width="1122" height="1502" frameX="-494" frameY="-239" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 Right0001" x="3534" y="0" width="1126" height="1486" frameX="-500" frameY="-260" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 missRight0000" x="5789" y="0" width="1163" height="1471" frameX="-479" frameY="-277" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 missRight0001" x="5789" y="1471" width="1163" height="1471" frameX="-490" frameY="-277" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 missRight0002" x="5789" y="2942" width="1163" height="1471" frameX="-485" frameY="-277" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 Down0000" x="0" y="5954" width="1147" height="1339" frameX="-542" frameY="-385" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 Down0001" x="6952" y="2923" width="1096" height="1399" frameX="-560" frameY="-339" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 missDown0000" x="6952" y="4322" width="1096" height="1399" frameX="-553" frameY="-346" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 missDown0001" x="4660" y="2944" width="1096" height="1399" frameX="-576" frameY="-345" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 missDown0002" x="3534" y="1486" width="1096" height="1399" frameX="-567" frameY="-345" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 Left0000" x="6952" y="1464" width="1124" height="1459" frameX="-546" frameY="-263" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 Left0001" x="6952" y="0" width="1143" height="1464" frameX="-580" frameY="-256" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 missLeft0000" x="2436" y="3002" width="1129" height="1472" frameX="-580" frameY="-235" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 missLeft0001" x="4660" y="0" width="1129" height="1472" frameX="-601" frameY="-239" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 missLeft0002" x="4660" y="1472" width="1129" height="1472" frameX="-593" frameY="-237" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 Right0002" x="0" y="4484" width="1294" height="1470" frameX="-481" frameY="-232" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 Right0003" x="1294" y="4484" width="1244" height="1467" frameX="-494" frameY="-236" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 missRight0003" x="2538" y="4484" width="1244" height="1467" frameX="-509" frameY="-235" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 missRight0004" x="3782" y="4484" width="1244" height="1467" frameX="-483" frameY="-236" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Gray R2 missRight0005" x="5026" y="4484" width="1244" height="1467" frameX="-493" frameY="-236" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

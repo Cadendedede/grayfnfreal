@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 5,
+			"anim": "idle",
+			"indices": [],
+			"name": "grayper Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "grayper Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "grayper Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "grayper Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				13
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "grayper Down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/grayper",
+	"position": [
+		-750,
+		-540
+	],
+	"healthicon": "papergray",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		101,
+		101
+	],
+	"camera_position": [
+		-690,
+		720
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 0.3,
+	"_editor_isPlayer": true
+}

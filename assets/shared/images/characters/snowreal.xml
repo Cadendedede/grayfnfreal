@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="snowreal.png"><SubTexture name="snowreal idle0000" x="8426" y="4854" width="2010" height="1024" frameX="-495" frameY="-1392" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0001" x="8426" y="3744" width="2010" height="1110" frameX="-495" frameY="-1306" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0002" x="8426" y="2549" width="2010" height="1195" frameX="-495" frameY="-1221" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0003" x="8426" y="0" width="2010" height="1281" frameX="-495" frameY="-1135" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0004" x="6030" y="6431" width="2010" height="1366" frameX="-495" frameY="-1050" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0005" x="4020" y="6431" width="2010" height="1452" frameX="-495" frameY="-964" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0006" x="2010" y="6431" width="2010" height="1537" frameX="-495" frameY="-879" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0007" x="0" y="6431" width="2010" height="1623" frameX="-495" frameY="-793" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0008" x="6030" y="4466" width="2010" height="1708" frameX="-495" frameY="-708" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0009" x="4020" y="4466" width="2010" height="1794" frameX="-495" frameY="-622" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0010" x="2010" y="4466" width="2010" height="1879" frameX="-495" frameY="-537" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0011" x="0" y="4466" width="2010" height="1965" frameX="-495" frameY="-451" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0012" x="4020" y="0" width="2010" height="2050" frameX="-495" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0013" x="4020" y="0" width="2010" height="2050" frameX="-495" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0014" x="4020" y="0" width="2010" height="2050" frameX="-495" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0015" x="4020" y="0" width="2010" height="2050" frameX="-495" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0016" x="4020" y="0" width="2010" height="2050" frameX="-495" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0017" x="4020" y="0" width="2010" height="2050" frameX="-495" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0018" x="4020" y="0" width="2010" height="2050" frameX="-495" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0019" x="4020" y="0" width="2010" height="2050" frameX="-495" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0020" x="4020" y="0" width="2010" height="2050" frameX="-495" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0021" x="4020" y="0" width="2010" height="2050" frameX="-495" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0022" x="4020" y="0" width="2010" height="2050" frameX="-495" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal idle0023" x="4020" y="0" width="2010" height="2050" frameX="-495" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal right0000" x="4020" y="0" width="2010" height="2050" frameX="-495" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal right0001" x="0" y="2416" width="2327" height="2050" frameX="-660" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal right0002" x="2327" y="2416" width="2101" height="2050" frameX="-577" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal up0000" x="4020" y="0" width="2010" height="2050" frameX="-495" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal up0001" x="6030" y="0" width="2396" height="2050" frameX="0" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal up0002" x="6030" y="2050" width="2109" height="2050" frameX="-337" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal down0000" x="4020" y="0" width="2010" height="2050" frameX="-495" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal down0001" x="8426" y="5878" width="2010" height="486" frameX="-495" frameY="-1930" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal down0002" x="8426" y="1281" width="2010" height="1268" frameX="-495" frameY="-1148" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal left0000" x="4020" y="0" width="2010" height="2050" frameX="-495" frameY="-366" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal left0001" x="0" y="0" width="2010" height="2416" frameX="-495" frameY="0" frameWidth="3000" frameHeight="3000" />
+<SubTexture name="snowreal left0002" x="2010" y="0" width="2010" height="2234" frameX="-495" frameY="-182" frameWidth="3000" frameHeight="3000" />
+</TextureAtlas>

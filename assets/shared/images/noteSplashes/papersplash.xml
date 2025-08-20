@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="papersplash.png">
+<SubTexture name="boom green 10000" x="0" y="753" width="159" height="159" frameX="-70" frameY="-62" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom green 10001" x="787" y="0" width="165" height="165" frameX="-71" frameY="-58" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom green 10002" x="384" y="386" width="187" height="182" frameX="-55" frameY="-48" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom green 10003" x="0" y="572" width="185" height="181" frameX="-58" frameY="-54" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom green 10004" x="408" y="0" width="192" height="186" frameX="-58" frameY="-48" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom green 10005" x="0" y="0" width="204" height="193" frameX="-52" frameY="-48" frameWidth="300" frameHeight="300" />
+
+<SubTexture name="boom blue 10000" x="159" y="753" width="159" height="159" frameX="-70" frameY="-62" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom blue 10001" x="787" y="165" width="165" height="165" frameX="-71" frameY="-58" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom blue 10002" x="600" y="0" width="187" height="182" frameX="-55" frameY="-48" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom blue 10003" x="185" y="572" width="185" height="181" frameX="-58" frameY="-54" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom blue 10004" x="408" y="186" width="192" height="186" frameX="-58" frameY="-48" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom blue 10005" x="204" y="0" width="204" height="193" frameX="-52" frameY="-48" frameWidth="300" frameHeight="300" />
+
+<SubTexture name="boom red 10000" x="318" y="753" width="159" height="159" frameX="-70" frameY="-62" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom red 10001" x="787" y="330" width="165" height="165" frameX="-71" frameY="-58" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom red 10002" x="600" y="182" width="187" height="182" frameX="-55" frameY="-48" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom red 10003" x="370" y="572" width="185" height="181" frameX="-58" frameY="-54" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom red 10004" x="0" y="386" width="192" height="186" frameX="-58" frameY="-48" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom red 10005" x="0" y="193" width="204" height="193" frameX="-52" frameY="-48" frameWidth="300" frameHeight="300" />
+
+<SubTexture name="boom purple 10000" x="477" y="753" width="159" height="159" frameX="-70" frameY="-62" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom purple 10001" x="787" y="495" width="165" height="165" frameX="-71" frameY="-58" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom purple 10002" x="600" y="364" width="187" height="182" frameX="-55" frameY="-48" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom purple 10003" x="555" y="572" width="185" height="181" frameX="-58" frameY="-54" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom purple 10004" x="192" y="386" width="192" height="186" frameX="-58" frameY="-48" frameWidth="300" frameHeight="300" />
+<SubTexture name="boom purple 10005" x="204" y="193" width="204" height="193" frameX="-52" frameY="-48" frameWidth="300" frameHeight="300" />
+</TextureAtlas>
