@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spooky stupids.png">
+<SubTexture name="spooky stupids Idle0000" x="1447" y="3697" width="1100" height="1674" frameX="-559" frameY="-267" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids Idle0001" x="1447" y="3697" width="1100" height="1674" frameX="-559" frameY="-267" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids Idle0002" x="5856" y="1646" width="1067" height="1638" frameX="-568" frameY="-285" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids Idle0003" x="5856" y="3284" width="890" height="1564" frameX="-658" frameY="-355" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids Idle0004" x="5856" y="3284" width="890" height="1564" frameX="-658" frameY="-355" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids Idle0005" x="1315" y="1953" width="1106" height="1741" frameX="-417" frameY="-201" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids Idle0006" x="1315" y="1953" width="1106" height="1741" frameX="-417" frameY="-201" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids Idle0007" x="4471" y="1729" width="1084" height="1726" frameX="-428" frameY="-218" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids Idle0008" x="5856" y="3284" width="890" height="1564" frameX="-658" frameY="-355" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids Idle0009" x="5856" y="3284" width="890" height="1564" frameX="-658" frameY="-355" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids Left0000" x="2547" y="3697" width="1428" height="1653" frameX="-142" frameY="-262" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids Left0001" x="5856" y="0" width="1383" height="1646" frameX="-177" frameY="-260" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids Left0002" x="3975" y="3697" width="1393" height="1653" frameX="-166" frameY="-262" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids missLeft0000" x="1387" y="5419" width="1407" height="1630" frameX="-153" frameY="-285" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids missLeft0001" x="0" y="5419" width="1387" height="1639" frameX="-181" frameY="-277" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids Right0000" x="0" y="1953" width="1315" height="1744" frameX="-598" frameY="-217" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids Right0001" x="2421" y="1953" width="1275" height="1735" frameX="-577" frameY="-221" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids missRight0000" x="0" y="3697" width="1447" height="1722" frameX="-565" frameY="-232" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids missRight0001" x="4471" y="0" width="1385" height="1729" frameX="-548" frameY="-225" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids Up0000" x="0" y="0" width="1027" height="1953" frameX="-714" frameY="-71" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids Up0001" x="1027" y="0" width="1068" height="1938" frameX="-692" frameY="-98" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids Down0000" x="5245" y="5419" width="1227" height="1204" frameX="-497" frameY="-663" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids Down0001" x="2794" y="5419" width="1235" height="1218" frameX="-498" frameY="-653" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids missDown0000" x="7239" y="0" width="1241" height="1175" frameX="-514" frameY="-693" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids missDown0001" x="4029" y="5419" width="1216" height="1211" frameX="-507" frameY="-658" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids missUp0000" x="3283" y="0" width="1188" height="1827" frameX="-715" frameY="-198" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spooky stupids missUp0001" x="2095" y="0" width="1188" height="1864" frameX="-715" frameY="-161" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

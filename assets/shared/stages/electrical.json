@@ -1,0 +1,28 @@
+{
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"defaultZoom": 0.6,
+	"opponent": [
+		1175,
+		426
+	],
+	"directory": "",
+	"girlfriend": [
+		43,
+		-1843
+	],
+	"isPixelStage": false,
+	"boyfriend": [
+		480,
+		426
+	]
+}

@@ -53,6 +53,7 @@ class TitleState extends MusicBeatState
 	var titleTextAlphas:Array<Float> = [1, .64];
 
 	var curWacky:Array<String> = [];
+	var curWack:Array<String> = [];
 
 	var wackyImage:FlxSprite;
 
@@ -77,6 +78,11 @@ class TitleState extends MusicBeatState
 		}
 
 		curWacky = FlxG.random.getObject(getIntroTextShit());
+		curWack = FlxG.random.getObject(getIntroTextShit());
+		if (curWacky == curWack)
+		{
+			curWack = FlxG.random.getObject(getIntroTextShit());
+		}
 
 		if(!initialized)
 		{
@@ -534,25 +540,24 @@ class TitleState extends MusicBeatState
 				case 5:
 					deleteCoolText();
 				case 6:
-					createCoolText(['Not associated', 'with'], -40);
+					createCoolText([curWacky[0]]);
 				case 8:
-					addMoreText('newgrounds', -40);
-					ngSpr.visible = true;
+					addMoreText(curWacky[1]);
 				case 9:
 					deleteCoolText();
 					ngSpr.visible = false;
 				case 10:
-					createCoolText([curWacky[0]]);
+					createCoolText([curWack[0]]);
 				case 12:
-					addMoreText(curWacky[1]);
+					addMoreText(curWack[1]);
 				case 13:
 					deleteCoolText();
 				case 14:
-					addMoreText('Friday');
+					addMoreText('gray');
 				case 15:
-					addMoreText('Night');
+					addMoreText('fnf');
 				case 16:
-					addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
+					addMoreText('real'); // credTextShit.text += '\nFunkin';
 
 				case 17:
 					skipIntro();

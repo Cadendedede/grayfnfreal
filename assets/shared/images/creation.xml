@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="avbg.png">
+<SubTexture name="avbg Idle0000" x="0" y="0" width="3164" height="1739" frameX="0" frameY="0" frameWidth="3164" frameHeight="1739" />
+<SubTexture name="avbg Idle0001" x="3164" y="0" width="3164" height="1739" frameX="0" frameY="0" frameWidth="3164" frameHeight="1739" />
+</TextureAtlas>

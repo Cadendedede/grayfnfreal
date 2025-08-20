@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="paperbarlol.png"><SubTexture name="paperbarlol woah0000" x="0" y="0" width="626" height="40" frameX="-15" frameY="0" frameWidth="650" frameHeight="40" />
+<SubTexture name="paperbarlol woah0001" x="626" y="0" width="641" height="38" frameX="-9" frameY="-2" frameWidth="650" frameHeight="40" />
+</TextureAtlas>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="healthbarlol.png"><SubTexture name="healthbarlol woah0000" x="0" y="0" width="614" height="28" frameX="-5" frameY="-2" frameWidth="620" frameHeight="30" />
+<SubTexture name="healthbarlol woah0001" x="0" y="28" width="612" height="28" frameX="-3" frameY="-2" frameWidth="620" frameHeight="30" />
+<SubTexture name="healthbarlol woah0002" x="614" y="0" width="615" height="27" frameX="-3" frameY="-2" frameWidth="620" frameHeight="30" />
+</TextureAtlas>
